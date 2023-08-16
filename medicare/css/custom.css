@@ -1,0 +1,19 @@
+.cbg{
+    background-image: linear-gradient(180deg, #6ddfc2 10%, #6f87f1 100%) !important;
+    background-size: cover !important;
+}
+.lpage{
+    background-color: rgba(211, 206, 206, 0.3) !important; 
+}
+.btncustom{
+    color: #fff !important;
+    background-color: #3976bd !important;
+
+}
+.btncustom:hover{
+    background-color: #63d3d3 !important;
+}
+.cprofile{
+    font-size: 32px;
+
+}
